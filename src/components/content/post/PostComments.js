@@ -19,8 +19,8 @@ const CommentAuthor = styled.span`
 export const PostComments = ({ comments }) => {
   return (
     <PostCommentsHolder>
-      {comments.map((comment) => (
-        <CommentHolder key={comment.id}>
+      {comments.map((comment, index) => (
+        <CommentHolder key={index}>
           <CommentAuthor>{comment.author}</CommentAuthor>
           {comment.text}
         </CommentHolder>
