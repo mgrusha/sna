@@ -1,0 +1,37 @@
+[
+  {
+    "postId": 1,
+    "timeStamp": 1600632948,
+    "userName": "John Galt",
+    "text": "Democracy means that if this man, you, and I will be trapped on an island, we having a majority of votes will decide that you have to sleep with us. That's the Democracy. And with 2/3 votes we can even put that in the constitution.",
+    "comments": [
+      { "id": 1, "author": "Arnold", "text": "intresting" },
+      { "id": 2, "author": "Henry", "text": "Exciting" }
+    ]
+  },
+  {
+    "postId": 2,
+    "timeStamp": 1595276148,
+    "userName": "Beavis Rooney",
+    "text": "Politicians that proclaim big words without meaning rule in democracy. At best they allow themselves to discover that it's better to be rich and healthy than sick and poor and that it is necessary to care for 'good of Poland - clap clap, hurricane of clapping",
+    "comments": [
+      { "id": 3, "author": "Joey", "text": "Good" },
+      { "id": 4, "author": "Andy", "text": "Agree" }
+    ]
+  },
+  {
+    "postId": 3,
+    "timeStamp": 1563653748,
+    "userName": "Smart Man",
+    "text": "I've had no sexual education, but I have six children.",
+    "comments": []
+  },
+
+  {
+    "postId": 4,
+    "timeStamp": 1600642938,
+    "userName": "Mr. Twister",
+    "text": "Under Hitler or Stalin a Góral [Tatra-highlander] could choose to produce oscypek [smoked cheese] however he preferred. Nowadays the EU official is watching him.",
+    "comments": []
+  }
+]
